@@ -23,7 +23,7 @@ The Flashcards Console App allows users to create, view, and manage flashcards d
 - **C#** (Console Application)
 - **.NET** (Latest version recommended)
 - **Dapper** (Micro-ORM for database interactions)
-- **SQL Server** (Lightweight database engine)
+- **SQL Server**
 - **Spectre.Console** (For better console UI)
 
 ## 📜 Lessons Learned
